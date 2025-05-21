@@ -5,4 +5,5 @@ Integrantes:
 - Juan Miñaca (Integrante 3)
 
 Cambios (lider):
-![Captura de pantalla 2025-05-21 153233](https://github.com/user-attachments/assets/5e8919a4-c114-42ed-9473-7c44b3030769)
+
+![Captura de pantalla 2025-05-21 155314](https://github.com/user-attachments/assets/76bdf93f-0147-48a1-a043-1eee97ef2815)
