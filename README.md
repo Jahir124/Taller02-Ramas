@@ -13,3 +13,7 @@ Cambios DESC en rama orden (Integrante1):
 
 Cambios el orden del nombre del artista y el nombre de la canción (Integrante2):
 ![Captura de pantalla (4)](https://github.com/user-attachments/assets/1a1f74ea-124f-498f-b828-be83a7f22b9d)
+
+Cambios el orden del numero de la posicion de la cancion en el ranking a lado derecho (Integrante3):
+![Captura de pantalla 2025-05-21 160838](https://github.com/user-attachments/assets/823f2705-f3ce-43ae-90ef-ac0ca38be6aa)
+
