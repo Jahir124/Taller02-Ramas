@@ -10,3 +10,6 @@ Cambios (lider):
 
 Cambios DESC en rama orden (Integrante1):
 ![Captura de pantalla (2)](https://github.com/user-attachments/assets/c8c8e34b-10ad-4c23-9026-83b77aa4c8f7)
+
+Cambios el orden del nombre del artista y el nombre de la canción (Integrante2):
+![Captura de pantalla (4)](https://github.com/user-attachments/assets/1a1f74ea-124f-498f-b828-be83a7f22b9d)
